@@ -1,0 +1,14 @@
+{
+  "name": "mkdai",
+  "version": "1.0.0",
+  "description": "MKDAI - a personal AI agent that searches the web, reads pages, and summarizes files on command.",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.8.2",
+    "@supabase/supabase-js": "^2.45.4",
+    "imapflow": "^1.6.6"
+  }
+}
